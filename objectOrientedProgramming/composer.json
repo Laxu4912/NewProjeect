@@ -1,0 +1,9 @@
+{
+    "name": "laxman/able",
+    "autoload": {
+        "psr-4": {
+            "Laxman\\Able\\": "src/"
+        }
+    },
+    "require": {}
+}
